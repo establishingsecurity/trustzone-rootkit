@@ -1,6 +1,6 @@
 # Abusing Trust: Mobile Kernel Subversion via TrustZone Rootkits
 
-This repository contains a proof-of-concept implementation of the rootkit techniques described in our paper "Abusing Trust: Mobile Kernel Subversion via TrustZone Rootkits". The rootkit is implemented on top of [OP-TEE](https://www.op-tee.org/). Technically, the rootkit is a so-called "pseudo trusted application" which is compiled and executed as part of the secure world operating system.
+This repository contains a proof-of-concept implementation of the rootkit techniques described in our paper [Abusing Trust: Mobile Kernel Subversion via TrustZone Rootkits](https://security.inso.tuwien.ac.at/pdfs/woot22-preprint.pdf). The rootkit is implemented on top of [OP-TEE](https://www.op-tee.org/). Technically, the rootkit is a so-called "pseudo trusted application" which is compiled and executed as part of the secure world operating system.
 
 Following rootkit functions are implemented and subject to the evaluation:
 
